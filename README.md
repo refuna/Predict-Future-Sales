@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Predict Future Sales** repository contains a machine learning project that aims to forecast sales for a retail store using historical sales data from a Kaggle competition. The goal is to build predictive models that can accurately estimate future sales based on various features, including product details, store information, and historical sales trends.
+The **Predict Future Sales**  is a kaggle competition that aims to forecast sales for a retail store using historical sales data from a Kaggle competition. The goal is to build predictive models that can accurately estimate future sales based on various features, including product details, store information, and historical sales trends.
 
 ## Dataset
 
